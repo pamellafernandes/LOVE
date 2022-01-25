@@ -22,8 +22,7 @@
 <p> O projeto foi inspirado em uma landing page do tema LOVE. Compartilho este conhecimento através deste vídeo feito pelo <a href="https://www.youtube.com/watch?v=EA7rYIdF_9g">Jefferson Vasconcellos</a></p>
 
 <h2 align="center"> 
-	Projeto concluído com sucesso... <img src="https://github.com/pamellafernandes/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30px"> 
-</h2>
+	Projeto concluído com sucesso... 🚀
 
 <h2 align="center">Abaixo um vídeo do projeto. 📹</h2>
 
